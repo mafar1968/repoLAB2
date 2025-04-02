@@ -4,7 +4,7 @@ from cryptography.fernet import Fernet
 key = Fernet.generate_key()
 
 # Nome do arquivo onde a chave será gravada
-file_name = 'chave_fernet.key'
+file_name = 'key.fernet'
 
 # Grava a chave no arquivo
 with open(file_name, 'wb') as key_file:
