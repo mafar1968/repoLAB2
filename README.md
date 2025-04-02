@@ -26,4 +26,4 @@
   .       .          .   .          .        .                          ..       .               .                                .          
 
   Laboratório 2 - Grupo A
-  
+
